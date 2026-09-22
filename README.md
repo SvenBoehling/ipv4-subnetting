@@ -15,6 +15,10 @@ Dieses Repository dokumentiert meine praktische Auseinandersetzung mit IPv4-Adre
 
 ## Übungen
 
+### Subnetting
+
+- [Subnetting – Beispiel 01](exercises/subnetting-example-01.md)
+
 ### VLSM
 
 - [VLSM – Beispiel 01](exercises/vlsm-example-01.md)
