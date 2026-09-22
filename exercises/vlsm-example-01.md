@@ -214,3 +214,22 @@ Broadcast:
 | 15 Hosts | /27 | 192.168.1.128 | .129 – .158 | .159 |
 | 8 Hosts | /28 | 192.168.1.160 | .161 – .174 | .175 |
 | 4 Hosts | /29 | 192.168.1.176 | .177 – .182 | .183 |
+
+## Subnetzaufteilung
+
+Das ursprüngliche Netzwerk `192.168.1.0/24` wurde mithilfe von VLSM in vier unterschiedlich große Subnetze aufgeteilt.
+
+```text
+192.168.1.0/24
+│
+├── 192.168.1.0/25
+│   └── 125 Hosts
+│
+├── 192.168.1.128/27
+│   └── 15 Hosts
+│
+├── 192.168.1.160/28
+│   └── 8 Hosts
+│
+└── 192.168.1.176/29
+    └── 4 Hosts
