@@ -27,4 +27,4 @@ Dieses Repository dokumentiert meine praktische Auseinandersetzung mit IPv4-Adre
 
 Ziel dieses Projekts ist es, meine Kenntnisse im Bereich IPv4-Adressierung und Subnetting praktisch anzuwenden und nachvollziehbar zu dokumentieren.
 
-Die einzelnen Übungen enthalten sowohl den Lösungsweg als auch die daraus resultierenden Netzwerkeinstellungen.
+Die einzelnen Übungen enthalten sowohl den Lösungsweg als auch die daraus resultierenden Ergebnisse.
